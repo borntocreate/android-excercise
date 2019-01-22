@@ -33,8 +33,32 @@ Retrieve all comments for given posts
 
 Create a new comment
 
-*Body*
-
+**Body**
 `email`: string, required, valid email
 `name`: string, required, allowed chars `a-z\s`, maxlength 100
 `comment`: string, required, maxlength 300
+
+
+## Entities
+
+### Post
+
+| Property | Type |
+| -------- | ---- |
+| id | int |
+| author | string |
+| title | string |
+| thumbnail | string |
+| image | string |
+| content | string |
+
+### Comment
+
+| Property | Type |
+| -------- | ---- |
+| id | int |
+| post_id | int |
+| name | string |
+| email | string |
+| comment | string |
+
