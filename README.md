@@ -54,8 +54,8 @@ Create a new comment
 
 ### Comment
 
-| Property | Type |
-| -------- | ---- |
+| Property | Type | Description |
+| -------- | ---- | ----------- |
 | id | int | |
 | post_id | int | |
 | name | string | comment author full name |
