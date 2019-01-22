@@ -43,22 +43,22 @@ Create a new comment
 
 ### Post
 
-| Property | Type |
-| -------- | ---- |
-| id | int |
-| author | string |
-| title | string |
-| thumbnail | string |
-| image | string |
-| content | string |
+| Property | Type | Description |
+| -------- | ---- | ----------- |
+| id | int | |
+| author | string | Author full name |
+| title | string | |
+| thumbnail | string | thumbnail image url |
+| image | string | full image url |
+| content | string | |
 
 ### Comment
 
 | Property | Type |
 | -------- | ---- |
-| id | int |
-| post_id | int |
-| name | string |
-| email | string |
-| comment | string |
+| id | int | |
+| post_id | int | |
+| name | string | comment author full name |
+| email | string | author email address |
+| comment | string | |
 
