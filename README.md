@@ -46,7 +46,7 @@ Create a new comment
 | Property | Type | Description |
 | -------- | ---- | ----------- |
 | id | int | |
-| author | string | Author full name |
+| author | string | author full name |
 | title | string | |
 | thumbnail | string | thumbnail image url |
 | image | string | full image url |
