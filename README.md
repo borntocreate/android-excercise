@@ -34,9 +34,9 @@ Retrieve all comments for given posts
 Create a new comment
 
 **Body**
-`email`: string, required, valid email
-`name`: string, required, allowed chars `a-z\s`, maxlength 100
-`comment`: string, required, maxlength 300
+`email`: string, required, valid email<br/>
+`name`: string, required, allowed chars `a-z\s`, maxlength 100<br/>
+`comment`: string, required, maxlength 300<br/>
 
 
 ## Entities
