@@ -19,7 +19,7 @@ Develop a basic android app using `Android Studio` with `Kotlin` implementing th
 
 ## API
 
-The API can be found under `http://android.born-to-create.de/` and has the following routes:
+The API can be found under `http://excercise.born-to-create.de/` and has the following routes:
 
 ### GET /posts
 
